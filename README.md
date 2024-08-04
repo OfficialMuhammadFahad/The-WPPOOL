@@ -1,1 +1,1 @@
-# The-WPPOOL
+This is only for "**WEB**"
